@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Temple.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WheelOfRomance.unity
     guid: b7a4f62b103e79a4b96eba8da157c4d0
+  - enabled: 1
+    path: Assets/Scenes/FloorisLava.unity
+    guid: 9f7d485f0dccc204cb92a09da18a86f4
   m_configObjects: {}
