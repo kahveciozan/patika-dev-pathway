@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.VersionControl;
 using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
@@ -15,6 +14,6 @@ public class HelloWorld : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(message);
+        Debug.Log(""+message);
     }
 }
